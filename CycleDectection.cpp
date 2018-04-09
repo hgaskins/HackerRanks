@@ -1,4 +1,4 @@
-/ *
+/*
 Detect a cycle in a linked list. Not that the head pointer may be 'NULL' if the list is empty. 
 
 A Node is defined as: 
