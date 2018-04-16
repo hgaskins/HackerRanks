@@ -31,3 +31,4 @@
     current->next = node_to_insert;
 
     // and then return the head bc the challange wanted that for some reason ¯\_(ツ)_/¯
+}
